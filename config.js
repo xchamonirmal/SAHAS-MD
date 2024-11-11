@@ -17,7 +17,7 @@ module.exports = {
   // groups = only working in group
   OWNER_NUMBER: process.env.OWNER_NUMBER || "94743430452",
   //========================================- OTHER - CONFIGS -=====================================================================
-  AUTO_VOICE: process.env.AUTO_VOICE || "true",
+  AUTO_VOICE: process.env.AUTO_VOICE || "false",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
   AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
