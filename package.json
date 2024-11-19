@@ -1,12 +1,12 @@
 {
-  "name": "SAHAS-MD",
+  "name": "CHAMO-MD",
   "version": "1.0.0",
-  "description": "SAHAS-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
+  "description": "CHAMO-MD MULTI DEVICE WHATSAPP BOT BY CHAMOD",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SAHAS-MD",
-    "stop": "pm2 stop SAHAS-MD",
-    "restart": "pm2 restart SAHAS-MD"
+    "stop": "pm2 stop CHAMO-MD",
+    "restart": "pm2 restart CHAMO-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
